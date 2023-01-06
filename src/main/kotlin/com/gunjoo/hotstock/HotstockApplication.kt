@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class HotstockApplication
+class HotStockApplication
 
 fun main(args: Array<String>) {
-	runApplication<HotstockApplication>(*args)
+    runApplication<HotStockApplication>(*args)
 }
